@@ -1,0 +1,18 @@
+@charset "utf-8";
+.blue-box {
+    border: 8px solid lightblue;
+    padding: 14px;
+}
+
+.highlight {
+    background-color: rgb(57, 83, 99);
+}
+
+.highlight {
+    color: white;
+}
+
+.red-text {
+    color: red;
+    font-weight: bold;
+}
